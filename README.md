@@ -13,3 +13,10 @@ The Garage Management System is a application designed to track and manage vehic
 
 ## Methodology and Design:
 The project is structured around a comprehensive Object-Oriented Programming (OOP) paradigm, utilizing inheritance and polymorphism for efficient code organization and reuse. Additionally, the system enforces a clear separation between the core logic (backend) and the user interface (UI) for enhanced maintainability and scalability. Furthermore, it is engineered to be highly adaptable, allowing for the seamless integration of new vehicle types through the application of the Factory Design Pattern.
+
+## Installation
+To install the Facebook app, follow these steps:
+1. Clone the repository from GitHub.
+2. Open the solution file in Visual Studio.
+3. Install the required packages.
+4. Build the solution and run the app.
